@@ -60,17 +60,19 @@ The goal of this project is to create an **accurate, efficient, and scalable emo
 ## Results  
 The trained model demonstrates **high accuracy** in emotion classification. Below are sample outputs showcasing emotion detection in real-time:  
 
-### **Sample Output 1**  
-![Emotion Detection Sample 1](assets/emotion_output1.png)  
+### **Sample Outputs**  
 
-| ![Emotion Detection Sample 1_1](assets/emotion_output1_1.png) | ![Emotion Detection Sample 1_2](assets/emotion_output1_2.png) |  
-|:------------------------------------------------:|:------------------------------------------------:|  
+| ![Emotion Detection 1](assets/Happy.png) | ![Emotion Detection 2](assets/Sad.png) | ![Emotion Detection 3](assets/Surprise.png) |
+|:-------------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|
+| **Detected: Happy** | **Detected: Sad** | **Detected: Angry** |
 
-### **Sample Output 2**  
-![Emotion Detection Sample 2](assets/emotion_output2.png)  
+| ![Emotion Detection 4](assets/Neutral.png) | ![Emotion Detection 5](assets/Fear.png) | ![Emotion Detection 6](assets/Anger.png) |
+|:-------------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|
+| **Detected: Surprise** | **Detected: Neutral** | **Detected: Disgust** |
 
-| ![Emotion Detection Sample 2_1](assets/emotion_output2_1.png) | ![Emotion Detection Sample 2_2](assets/emotion_output2_2.png) |  
-|:------------------------------------------------:|:------------------------------------------------:|  
+| ![Emotion Detection 7](assets/Disgust.png) |
+|:-------------------------------------------:|
+| **Detected: Fear** |
 
 The results illustrate the successful detection of facial emotions in real-time, highlighting the model’s effectiveness in identifying various expressions.  
 
@@ -85,7 +87,7 @@ The results illustrate the successful detection of facial emotions in real-time,
 
 ---
 
-## Installation & Usage  
+## Installation 
 1. **Clone the repository:**  
    ```sh
    git clone https://github.com/your-username/Face-Emotion-Recognition.git
@@ -98,3 +100,5 @@ The results illustrate the successful detection of facial emotions in real-time,
 3. **Run the model:**
    ```sh
    python main.py
+
+---
