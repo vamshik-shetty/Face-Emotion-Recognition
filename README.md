@@ -47,13 +47,7 @@ The goal of this project is to create an **accurate, efficient, and scalable emo
 
 ### **3. Video Processing**  
 - The system processes **each frame of a video stream** in real-time.  
-- Bounding boxes and emotion labels are displayed on detected faces.  
-
-### **4. Non-Maximum Suppression (NMS)**  
-- NMS eliminates redundant bounding boxes, ensuring only the most confident detections are retained.  
-
-### **5. Logging**  
-- Detected emotions and their respective timestamps are logged for reference.  
+- Bounding boxes and emotion labels are displayed on detected faces.   
 
 ---
 
