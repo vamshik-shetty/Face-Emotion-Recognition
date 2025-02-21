@@ -86,8 +86,15 @@ The results illustrate the successful detection of facial emotions in real-time,
 ---
 
 ## Installation & Usage  
-### **Installation**  
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/your-username/face-emotion-recognition.git
-   cd face-emotion-recognition
+   git clone https://github.com/your-username/Face-Emotion-Recognition.git
+   cd Face-Emotion-Recognition
+
+2. **Install dependencies:**
+   ```sh
+   pip install -r requirements.txt
+
+3. **Run the model:**
+   ```sh
+   python main.py
