@@ -66,9 +66,9 @@ The trained model demonstrates **high accuracy** in emotion classification. Belo
 |:-------------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|
 | **Detected: Happy** | **Detected: Sad** | **Detected: Surprise** |
 
-| ![Emotion Detection 4](assets/Neutral.png) | ![Emotion Detection 5](assets/Fear.png) | ![Emotion Detection 6](assets/Anger.png) | ![Emotion Detection 7](assets/Disgust.png) |
+| ![Emotion Detection 5](assets/Fear.png) | ![Emotion Detection 6](assets/Anger.png) | ![Emotion Detection 7](assets/Disgust.png) |
 |:-------------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|
-| **Detected: Neutral** | **Detected: Fear** | **Detected: Anger** | **Detected: Disgust** |
+| **Detected: Fear** | **Detected: Anger** | **Detected: Disgust** |
 
 The results illustrate the successful detection of facial emotions in real-time, highlighting the model’s effectiveness in identifying various expressions.  
 
